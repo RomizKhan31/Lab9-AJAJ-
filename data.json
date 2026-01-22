@@ -1,0 +1,78 @@
+[
+    {
+        "code": "ef",
+        "faculty": "Engineering Faculty",
+        "departments": [
+            {
+                "name": "Information and Communication Technology",
+                "chairman": "Dr.Monir Morshed"
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "chairman": "Dr. Abdullha Hossain"
+            },
+            {
+                "name": "Mechanical Engineering",
+                "chairman": "Dr. Iqbal Hossain"
+            },
+            {
+                "name": "Civil Engineering",
+                "chairman": "Dr. Mizanur Rahman"
+            }
+        ]
+    },
+    {
+        "code": "ls",
+        "faculty": "Life Science Faculty",
+        "departments": [
+            {
+                "name": "Biology",
+                "chairman": "Dr. Ziaur Rahman"
+            },
+            {
+                "name": "Biotechnology",
+                "chairman": "Dr. Asraful Islam"
+            },
+            {
+                "name": "Zoology",
+                "chairman": "Dr. demo"
+            }
+        ]
+    },
+    {
+        "code": "sf",
+        "faculty": "Science Faculty",
+        "departments": [
+            {
+                "name": "Physics",
+                "chairman": "Dr. James Taylor"
+            },
+            {
+                "name": "Chemistry",
+                "chairman": "Dr. Lisa Anderson"
+            },
+            {
+                "name": "Mathematics",
+                "chairman": "Dr. David Martin"
+            }
+        ]
+    },
+    {
+        "code": "bf",
+        "faculty": "Business Faculty",
+        "departments": [
+            {
+                "name": "Accounting",
+                "chairman": "Dr. Paul Thomas"
+            },
+            {
+                "name": "Management",
+                "chairman": "Dr. Angela White"
+            },
+            {
+                "name": "Economics",
+                "chairman": "Dr. George Harris"
+            }
+        ]
+    }
+]

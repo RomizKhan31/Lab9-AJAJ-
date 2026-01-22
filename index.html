@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AJAX Dropdown-Romiz Khan-IT22045</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Select Department</h2>
+      <label for="deptSelect">Select Department:</label>
+      <select id="deptSelect" onchange="loadDept(this.value)">
+        <option value="">-- Select Faculty --</option>
+        <option value="ef">Engineering Faculty</option>
+        <option value="ls">Life Science Faculty</option>
+        <option value="sf">Science Faculty</option>
+        <option value="bf">Business Faculty</option>
+      </select>
+      <div id="output"></div>
+    </div>
+  </body>
+</html>
